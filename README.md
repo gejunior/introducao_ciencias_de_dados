@@ -7,5 +7,10 @@ Link dos documentos -> https://drive.google.com/drive/folders/1W6kVCtE_jNNY6P7Rz
 ---
 
 Foram elaborados os conceitos de ciencias de dados e programação orientada a objetos (classe, objeto e método)
+media, moda e mediana
+importação de arquivos
+atribuição de dados
+tratamento de dados
 
 O projeto foi elaborado no google colab
+
